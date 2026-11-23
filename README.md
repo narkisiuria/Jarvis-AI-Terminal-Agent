@@ -1,6 +1,6 @@
 # Jarvis AI Terminal Agent
 
-An AI agent that runs inside a real, persistent PowerShell session on Windows. Give it a request in plain English (typed or spoken) and it plans commands, executes them, reads the output, recovers from errors, researches the web, and replies — sometimes out loud.
+An AI agent that runs inside a real, persistent PowerShell session on Windows. Give it a request in plain English (typed or spoken) and it plans commands, executes them, reads the output, recovers from errors, researches the web, and replies.
 
 Every command actually runs on your machine.
 
